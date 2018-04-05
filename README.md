@@ -1,124 +1,84 @@
-Introduction
-============
+# IntelliCampus
+Since education is a powerful instrument of social change and human progress, it is also a powerful tool to cultivate values in an individual. Therefore all the educational institutes have greater responsibility to impart learning and cultivating values through education. To have this impactful change we need to have smart Educational Institutes. Our Nation is currently going through a “Digital Revolution” and this revolution must be brought in the institutions.   
+           Today many of our Educational Institutes face the problems such as inadequate resources to get the quality education, less eco-friendly, improper library facilities, lack of distance education for the remote areas, lack of education for students with special needs and poor counseling for students to handle academic pressure.
+    To overcome all this hindrance that becomes the hurdle in the way of our institutions to adapt to this era of digitization, we have implemented some economical and feasible solutions that will help to provide equal education and more opportunities to upcoming youth.
+Following are the features we have implemented:
+* Live streaming lecture service for distance learning.
+* Complete video courses on variety of subjects.
+* Text-to-speech conversion for blind peoples.
+* Cycle services for a bigger campus with a tracking system.
+* Online assignment and test system for the ease of students and also for environment conversation.
+* Efficient Attendance System with QR for teachers
+* Campus and live activity navigation system using QR
+* Online Counselling for students to overcome depression due to academic stress.
+* Portal to bring students and teachers with similar field of interest on a single platform using online project section.
+* Academic Centralization web portal for connecting student to help each other and student-teacher portal for 24x7 doubt solving and research work
+* Online Stationery system portal to avoid irregularity in prices of stationery at institute level
 
-![Bower version](https://img.shields.io/bower/v/adminlte.svg)
-[![npm version](https://img.shields.io/npm/v/admin-lte.svg)](https://www.npmjs.com/package/admin-lte)
-[![Packagist](https://img.shields.io/packagist/v/almasaeed2010/adminlte.svg)](https://packagist.org/packages/almasaeed2010/adminlte)
-[![CDNJS](https://img.shields.io/cdnjs/v/admin-lte.svg)](https://cdnjs.com/libraries/admin-lte)
 
-**AdminLTE** -- is a fully responsive admin template. Based on **[Bootstrap 3](https://github.com/twbs/bootstrap)** framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. Check out the live preview now and see for yourself.
+## Getting Started
 
-**Download & Preview on [Almsaeed Studio](https://almsaeedstudio.com)**
+* After cloning the project you need to import the project's database from DB Folder into phpmyadmin of your local machine.
+* Now you are ready to run the project on your local machine.
 
-Looking for Premium Templates?
-------------------------------
-**Almsaeed studio just opened a new premium templates page. Hand picked to insure the best quality and the most affordable prices. Visit https://almsaeedstudio.com/premium for more information.**
+### Setting up Live Stream.
+
+* Create your account on EZ Web Player and Download Adobe Flash Media Live Encoder.
+* Once you create a account on EZ Web Player you will get a RTMP Live Stream URL.
+* Use that link in Adobe Flash Media Live Encoder as FMS URL and then connect and start recording the live stream video.
+* Go to EZ Web Player Dash Board and Add a Video using RTMP Live Stream Option.
+* Now your Live Stream is generated.
+
+Link: [https://www.youtube.com/watch?v=gqiR5ibbYfI](https://www.youtube.com/watch?v=gqiR5ibbYfI)
+
+### Prerequisites
+
+* [Xampp PHP 5.6 or Above](https://www.apachefriends.org/download.html)
+* [Adobe Flash Media Live Encoder](https://www.adobe.com/go/fmle)
+* [EZ Web Player](http://www.ezwebplayer.com/)
+
+## Demo
+
+### Login Page
+<center><img src="SS/1.png"></center>
+
+### Profile Page
+<center><img src="SS/2.png"></center>
+
+### Chat System for Online Counseling
+<center><img src="SS/3.png"></center>
+
+### Attendance Tracking
+<center><img src="SS/4.png"></center>
+
+### College E-Commerce
+<center><img src="SS/5.png"></center>
+
+### Student-Teacher Forum 
+<center><img src="SS/6.png"></center>
+
+### E-books
+<center><img src="SS/7.png"></center>
 
 
-!["AdminLTE Presentation"] (https://almsaeedstudio.com/AdminLTE2.png "AdminLTE Presentation")
+### Live Streaming Lectures
+<center><img src="SS/8.png"></center>
 
-**AdminLTE** has been carefully coded with clear comments in all of its JS, LESS and HTML files. LESS has been used to increase code customizability.
+### QR based Attendance
+<center><img src="SS/9.png"></center>
 
-Installation
-------------
-There are multiple ways to install AdminLTE.
+## Built With
 
-####Download:
+* [EZ Web Player](http://www.ezwebplayer.com/)
+* Admin LTE 2 Bootstrap Template
 
-Download from Github or [visit Almsaeed Studio](https://almsaeedstudio.com) and download the latest release.
+## Authors
 
-####Using The Command Line:
+* **Mandar Mhapsekar**-[mandar10](https://github.com/mandar10)
+* **Prathmesh Mhapsekar**-[prathmesh36](https://github.com/prathmesh36)
+* **Raj Patel**
+* **Aniket Mhatre**
 
-**Github**
+## License
 
-- Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
-- Clone to your machine
-```
-git clone https://github.com/YOUR_USERNAME/AdminLTE.git
-```
-
-**Bower**
-
-```
-bower install admin-lte
-```
-
-**npm**
-
-```
-npm install --save admin-lte
-```
-
-**Composer**
-
-```
-composer require "almasaeed2010/adminlte=~2.0"
-```
-
-Documentation
--------------
-Visit the [online documentation](https://almsaeedstudio.com/themes/AdminLTE/documentation/index.html) for the most
-updated guide. Information will be added on a weekly basis.
-
-Browser Support
----------------
-- IE 9+
-- Firefox (latest)
-- Chrome (latest)
-- Safari (latest)
-- Opera (latest)
-
-Contribution
-------------
-Contribution are always **welcome and recommended**! Here is how:
-
-- Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
-- Clone to your machine ```git clone https://github.com/YOUR_USERNAME/AdminLTE.git```
-- Make your changes
-- Create a pull request
-
-#### Contribution Requirements:
-
-- When you contribute, you agree to give a non-exclusive license to Almsaeed Studio to use that contribution in any context as we (Almsaeed Studio) see appropriate.
-- If you use content provided by another party, it must be appropriately licensed using an [open source](http://opensource.org/licenses) license.
-- Contributions are only accepted through Github pull requests.
-- Finally, contributed code must work in all supported browsers (see above for browser support).
-
-License
--------
-AdminLTE is an open source project by [Almsaeed Studio](https://almsaeedstudio.com) that is licensed under [MIT](http://opensource.org/licenses/MIT). Almsaeed Studio
-reserves the right to change the license of future releases.
-
-Todo List
----------
-- ~~Light sidebar colors~~ (Done v2.1.0)
-- ~~Right sidebar~~ (Done v2.1.0)
-- ~~Minified main-sidebar~~ (Done v2.1.0)
-- Right to left support
-- ~~Custom pace style~~ (Done v2.3.1)
-
-Legacy Releases
-----------------
-AdminLTE 1.x can be easily upgraded to 2.x using [this guide](https://almsaeedstudio.com/themes/AdminLTE/documentation/index.html#upgrade), but if you intend to keep using AdminLTE 1.x, you can download the latest release from the [releases](https://github.com/almasaeed2010/AdminLTE/releases) section above.
-
-Change log
-----------
-**For the most recent change log, visit the [releases page](https://github.com/almasaeed2010/AdminLTE/releases) or the [changelog file](https://github.com/almasaeed2010/AdminLTE/blob/master/changelog.md).** We will add a detailed release notes to each new release. 
-
-Image Credits
--------------
-[Pixeden](http://www.pixeden.com/psd-web-elements/flat-responsive-showcase-psd)
-
-[Graphicsfuel](http://www.graphicsfuel.com/2013/02/13-high-resolution-blur-backgrounds/)
-
-[Pickaface](http://pickaface.net/)
-
-[Unsplash](https://unsplash.com/)
-
-[Uifaces](http://uifaces.com/)
-
-Donations
----------
-Donations are **greatly appreciated!**
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "AdminLTE Presentation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=629XCUSXBHCBC "Donate")
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
