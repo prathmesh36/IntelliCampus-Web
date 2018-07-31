@@ -54,7 +54,7 @@ Link: [https://www.youtube.com/watch?v=gqiR5ibbYfI](https://www.youtube.com/watc
 ### College E-Commerce
 <center><img src="SS/5.png"></center>
 
-### Student-Teacher Forum 
+### Student-Teacher Forum
 <center><img src="SS/6.png"></center>
 
 ### E-books
@@ -77,7 +77,7 @@ Link: [https://www.youtube.com/watch?v=gqiR5ibbYfI](https://www.youtube.com/watc
 * **Mandar Mhapsekar**-[mandar10](https://github.com/mandar10)
 * **Prathmesh Mhapsekar**-[prathmesh36](https://github.com/prathmesh36 )
 * **Raj Patel**
-* **Aniket Mhatre**
+* **Aniket Mhatre**-[prathmesh36](https://github.com/aniketm07)
 
 ## License
 
