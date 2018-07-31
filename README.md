@@ -77,7 +77,7 @@ Link: [https://www.youtube.com/watch?v=gqiR5ibbYfI](https://www.youtube.com/watc
 * **Mandar Mhapsekar**-[mandar10](https://github.com/mandar10)
 * **Prathmesh Mhapsekar**-[prathmesh36](https://github.com/prathmesh36 )
 * **Raj Patel**
-* **Aniket Mhatre**-[prathmesh36](https://github.com/aniketm07)
+* **Aniket Mhatre**-[aniketm07](https://github.com/aniketm07)
 
 ## License
 
